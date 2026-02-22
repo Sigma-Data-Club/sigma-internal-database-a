@@ -1,0 +1,4 @@
+id_miembro,id_evento,fecha_inscripcion,asistencia
+12345678A,1,2026-02-10T10:00:00,false
+87654321B,1,2026-02-11T09:00:00,false
+11223344C,2,2026-03-05T08:00:00,false
